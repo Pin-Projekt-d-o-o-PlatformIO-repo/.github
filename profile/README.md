@@ -11,7 +11,18 @@
 - All boards V2
 
 ## Lotto machine:
-- All borads V1
+- Camera light ring controller basic led
+- Camera light ring controller WS2812B
+- Lower ball dropper
+- Lower ball sorter
+- Main controller board
+- Mixer board
+- OCR board
+- Sensor controller
+- Upper ball dropper
+- Upper ball sorter
+
+## Lotto machine commands
 
 ## Testing:
 - motor testing
