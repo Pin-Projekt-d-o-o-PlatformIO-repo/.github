@@ -6,8 +6,8 @@
 
 # Uploaded projects:
 
-## Production lotto machine
-#### Main branch:
+### Production lotto machine:
+- #### Main branch:
 - Ball transporter
 - Lower ball dropper
 - Lower ball sorter
@@ -30,9 +30,9 @@
 - Upper ball dropper
 - Upper ball sorter
 
-## Production lotto machine commands
+### Production lotto machine commands
 
-## Display lotto machine
+### Display lotto machine
 - Ball transporter
 - Lower ball dropper
 - Lower ball sorter
@@ -44,14 +44,14 @@
 - Upper ball dropper
 - Upper ball sorter
 
-## Display lotto machine commands
+### Display lotto machine commands
 
-## AVR-esting:
+### AVR-esting:
 - motor testing
 - SPI
 - testing ATtiny13
 - UART
 
-## Bingo machine:
+### Bingo machine:
 - All boards V1
 - All boards V2
