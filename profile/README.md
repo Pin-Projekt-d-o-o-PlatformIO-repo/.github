@@ -32,7 +32,7 @@
 
 ### Production lotto machine commands
 
-### Display lotto machine
+### Display lotto machine:
 - Ball transporter
 - Lower ball dropper
 - Lower ball sorter
