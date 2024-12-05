@@ -21,11 +21,14 @@
 #### lower-ball-dropper-impro branch:
 - Lower ball dropper  <-- made changes to this board
 - Main controller board <-- made changes to this board
-#### Universal slave ack:
+#### Universal slave ack branch:
 - added universal ack command to all boards from main branch
 
 ### Production lotto machine commands
-- commands for production lotto machine
+#### Main branch:
+- Production lotto machine commands
+#### Universal slave ack branch:
+- added universal ack command to all boards from main branch
 
 ### Display lotto machine:
 #### Main branch:
@@ -43,7 +46,10 @@
 - added universal ack command to all boards from main branch
 
 ### Display lotto machine commands
+#### Main branch:
 - commands for display lotto machine
+#### Universal slave ack branch: 
+- added universal ack command to all boards from main branch
 
 ### AVR-esting:
 - motor testing
