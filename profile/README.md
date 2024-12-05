@@ -7,7 +7,7 @@
 # Uploaded projects:
 
 ### Production lotto machine:
-#### Main branch:
+#### 1. Main branch:
 - Ball transporter
 - Lower ball dropper
 - Lower ball sorter
@@ -18,20 +18,20 @@
 - Transporter sensor controller
 - Upper ball dropper
 - Upper ball sorter
-#### lower-ball-dropper-impro branch:
+#### 2. lower-ball-dropper-impro branch:
 - Lower ball dropper  <-- made changes to this board
 - Main controller board <-- made changes to this board
-#### Universal slave ack branch:
+#### 3. Universal slave ack branch:
 - added universal ack command to all boards from main branch
 
 ### Production lotto machine commands
-#### Main branch:
+#### 1. Main branch:
 - Production lotto machine commands
-#### Universal slave ack branch:
+#### 2. Universal slave ack branch:
 - added universal ack command to all boards from main branch
 
 ### Display lotto machine:
-#### Main branch:
+#### 1. Main branch:
 - Ball transporter
 - Lower ball dropper
 - Lower ball sorter
@@ -42,13 +42,13 @@
 - Transporter sensor controller
 - Upper ball dropper
 - Upper ball sorter
-#### Universal slave ack
+#### 2. Universal slave ack
 - added universal ack command to all boards from main branch
 
 ### Display lotto machine commands
-#### Main branch:
+#### 1. Main branch:
 - commands for display lotto machine
-#### Universal slave ack branch: 
+#### 2. Universal slave ack branch: 
 - added universal ack command to all boards from main branch
 
 ### AVR-esting:
